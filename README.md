@@ -1,9 +1,27 @@
 # React Todo App
-A modern, functional, and fully responsive Todo application built with a professional React + TypeScript workflow.
+A modern, functional Todo application built with a professional React + TypeScript workflow.
 
 ## 🚀 Live Demo
 You can view the live project here:
 - [DEMO LINK](https://Staskovych.github.io/react-todo-app/)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VITE-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<h1 align="center">📱 Todo App</h1>
+
+<p align="center">
+  A modern, functional Todo application built with a professional React + TypeScript workflow.
+</p>
+
+<p align="center">
+  <a href="https://staskovych.github.io/react-todo-app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-31C854?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠 Tech Stack
 * **React** – Component-based UI library with Hooks.
