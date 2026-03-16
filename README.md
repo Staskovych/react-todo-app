@@ -1,10 +1,3 @@
-# React Todo App
-A modern, functional Todo application built with a professional React + TypeScript workflow.
-
-## 🚀 Live Demo
-You can view the live project here:
-- [DEMO LINK](https://Staskovych.github.io/react-todo-app/)
-
 <p align="center">
   <img src="https://img.shields.io/badge/VITE-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
